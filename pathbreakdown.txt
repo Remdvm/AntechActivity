@@ -1,8 +1,10 @@
-Tuesday Mar 31, 2026 at 3:13am
+Tuesday Mar 31, 2026 at 11:12am
 
 REPORT SEARCH - REPORT SEARCH
+ BTurek ActivityLog                  14  (10:59AM)
+ TWatanabe ActivityLog               27  (08:14AM)
 ---------------------------------------
-Total:                               0
+Total:                               41
 
 
 COPY ACCESSION - COPY ACCESSION
@@ -11,8 +13,10 @@ Total:                               0
 
 
 COPY TEXT - COPY TEXT
+ BTurek ActivityLog                  13  (10:59AM)
+ TWatanabe ActivityLog               1  (05:44AM)
 ---------------------------------------
-Total:                               0
+Total:                               14
 
 
 SHOW TRF - SHOW TRF
@@ -36,10 +40,16 @@ Total:                               0
 
 
 KEYWORDSEARCH - SEARCH FOR CODE
- MPopielarczyk ActivityLog           3  (03:12AM)
+ PLabelle ActivityLog                20  (11:12AM)
+ MPopielarczyk ActivityLog           17  (11:10AM)
+ AEllis ActivityLog                  3  (10:45AM)
+ LFranko ActivityLog                 19  (11:08AM)
+ CBacmeister ActivityLog             11  (10:56AM)
+ LBorst ActivityLog                  2  (10:26AM)
+ AVanderpool ActivityLog             1  (03:36AM)
  KKrotec ActivityLog                 2  (02:57AM)
 ---------------------------------------
-Total:                               5
+Total:                               75
 
 
 CREATE CODE - CREATE CODE
@@ -53,8 +63,10 @@ Total:                               0
 
 
 REORDER CODE - REORDER CODE
+ MPopielarczyk ActivityLog           1  (05:50AM)
+ AEllis ActivityLog                  1  (08:01AM)
 ---------------------------------------
-Total:                               0
+Total:                               2
 
 
 CAPITALIZE TEXT - CAPITALIZE TEXT
@@ -78,8 +90,9 @@ Total:                               0
 
 
 SAVE EDITS - SAVE EDITS
+ CBacmeister ActivityLog             1  (10:23AM)
 ---------------------------------------
-Total:                               0
+Total:                               1
 
 
 RENAME CODE - RENAME CODE
@@ -88,8 +101,10 @@ Total:                               0
 
 
 HOTSTRING - HOTSTRING
+ AEllis ActivityLog                  42  (11:10AM)
+ TTaylor ActivityLog                 37  (11:04AM)
 ---------------------------------------
-Total:                               0
+Total:                               79
 
 
 ALT+B - CREATE A CODE
@@ -98,8 +113,9 @@ Total:                               0
 
 
 CODE SHORTCUT - CODE SHORTCUT
+ FOliveira ActivityLog               1  (09:15AM)
 ---------------------------------------
-Total:                               0
+Total:                               1
 
 
 ALT+E - MANUAL CODE CREATE
@@ -108,8 +124,9 @@ Total:                               0
 
 
 CLEAR CODE - CLEAR CODE
+ LFranko ActivityLog                 14  (10:55AM)
 ---------------------------------------
-Total:                               0
+Total:                               14
 
 
 SPELL CHECK - SPELL CHECK
