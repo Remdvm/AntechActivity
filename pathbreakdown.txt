@@ -1,13 +1,14 @@
-Monday Apr 13, 2026 at 11:00am
+Monday Apr 13, 2026 at 12:00pm
 
 REPORT SEARCH - REPORT SEARCH
+ BTurek ActivityLog                  27  (11:54AM)
+ MLund ActivityLog                   86  (11:54AM)
  PLabelle ActivityLog                1  (09:41AM)
- MLund ActivityLog                   79  (10:36AM)
- BTurek ActivityLog                  17  (10:07AM)
- MSanchez ActivityLog                1  (07:51AM)
+ SImanse ActivityLog                 1  (11:30AM)
  AVanderpool ActivityLog             1  (09:00AM)
+ MSanchez ActivityLog                1  (07:51AM)
 ---------------------------------------
-Total:                               99
+Total:                               117
 
 
 COPY ACCESSION - COPY ACCESSION
@@ -16,14 +17,16 @@ Total:                               0
 
 
 COPY TEXT - COPY TEXT
- BTurek ActivityLog                  20  (10:07AM)
+ BTurek ActivityLog                  27  (11:54AM)
+ SImanse ActivityLog                 2  (11:39AM)
 ---------------------------------------
-Total:                               20
+Total:                               29
 
 
 SHOW TRF - SHOW TRF
+ SImanse ActivityLog                 1  (11:31AM)
 ---------------------------------------
-Total:                               0
+Total:                               1
 
 
  OPEN CASE WITH LOCAL DATABASE -  OPEN CASE (REPORT SEARCH)
@@ -42,23 +45,23 @@ Total:                               0
 
 
 KEYWORDSEARCH - SEARCH FOR CODE
- LFranko ActivityLog                 25  (10:57AM)
- CBacmeister ActivityLog             41  (10:54AM)
- PLabelle ActivityLog                37  (10:53AM)
- KKrotec ActivityLog                 24  (10:48AM)
- MPopielarczyk ActivityLog           3  (10:42AM)
- CEckstrand ActivityLog              1  (10:42AM)
- MLund ActivityLog                   14  (10:20AM)
- MSanchez ActivityLog                46  (09:48AM)
- AVanderpool ActivityLog             21  (09:08AM)
+ CBacmeister ActivityLog             50  (12:00PM)
+ KKrotec ActivityLog                 28  (11:56AM)
  AEllis ActivityLog                  1  (08:04AM)
+ MLund ActivityLog                   14  (10:20AM)
+ LFranko ActivityLog                 31  (11:24AM)
+ MPopielarczyk ActivityLog           7  (11:52AM)
+ PLabelle ActivityLog                40  (11:43AM)
+ AVanderpool ActivityLog             22  (11:09AM)
+ CEckstrand ActivityLog              1  (10:42AM)
+ MSanchez ActivityLog                46  (09:48AM)
 ---------------------------------------
-Total:                               213
+Total:                               240
 
 
 CREATE CODE - CREATE CODE
- MSanchez ActivityLog                1  (09:36AM)
  AVanderpool ActivityLog             2  (09:17AM)
+ MSanchez ActivityLog                1  (09:36AM)
 ---------------------------------------
 Total:                               3
 
@@ -71,9 +74,9 @@ Total:                               0
 REORDER CODE - REORDER CODE
  CBacmeister ActivityLog             2  (09:24AM)
  KKrotec ActivityLog                 1  (06:10AM)
- MPopielarczyk ActivityLog           1  (10:35AM)
+ MPopielarczyk ActivityLog           2  (11:13AM)
 ---------------------------------------
-Total:                               4
+Total:                               5
 
 
 CAPITALIZE TEXT - CAPITALIZE TEXT
@@ -104,18 +107,19 @@ Total:                               9
 
 
 RENAME CODE - RENAME CODE
+ MPopielarczyk ActivityLog           1  (11:13AM)
 ---------------------------------------
-Total:                               0
+Total:                               1
 
 
 HOTSTRING - HOTSTRING
  KKrotec ActivityLog                 1  (06:11AM)
- TTaylor ActivityLog                 43  (10:29AM)
- MSanchez ActivityLog                3  (09:37AM)
+ AEllis ActivityLog                  48  (11:54AM)
  AVanderpool ActivityLog             19  (09:06AM)
- AEllis ActivityLog                  32  (09:06AM)
+ TTaylor ActivityLog                 45  (11:00AM)
+ MSanchez ActivityLog                3  (09:37AM)
 ---------------------------------------
-Total:                               98
+Total:                               116
 
 
 ALT+B - CREATE A CODE
@@ -134,9 +138,9 @@ Total:                               0
 
 
 CLEAR CODE - CLEAR CODE
- LFranko ActivityLog                 11  (10:24AM)
+ LFranko ActivityLog                 13  (11:52AM)
 ---------------------------------------
-Total:                               11
+Total:                               13
 
 
 SPELL CHECK - SPELL CHECK
