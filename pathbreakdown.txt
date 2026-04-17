@@ -1,4 +1,4 @@
-Thursday Apr 16, 2026 at 4:00pm
+Thursday Apr 16, 2026 at 5:00pm
 
 REPORT SEARCH - REPORT SEARCH
  MLund ActivityLog                   89  (01:59PM)
@@ -37,12 +37,12 @@ Total:                               0
 
 
 KEYWORDSEARCH - SEARCH FOR CODE
+ KKrotec ActivityLog                 37  (01:55PM)
+ CBacmeister ActivityLog             10  (01:41PM)
  MPopielarczyk ActivityLog           15  (02:54PM)
  LFranko ActivityLog                 14  (02:21PM)
  PLabelle ActivityLog                25  (02:37PM)
  MLund ActivityLog                   9  (12:45PM)
- KKrotec ActivityLog                 37  (01:55PM)
- CBacmeister ActivityLog             10  (01:41PM)
  AVanderpool ActivityLog             24  (11:52AM)
 ---------------------------------------
 Total:                               134
@@ -99,9 +99,10 @@ Total:                               0
 
 
 HOTSTRING - HOTSTRING
+ CBacmeister ActivityLog             1  (04:32PM)
  AVanderpool ActivityLog             14  (11:57AM)
 ---------------------------------------
-Total:                               14
+Total:                               15
 
 
 ALT+B - CREATE A CODE
