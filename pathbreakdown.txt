@@ -1,8 +1,8 @@
-Sunday Apr 19, 2026 at 7:00pm
+Sunday Apr 19, 2026 at 8:00pm
 
 REPORT SEARCH - REPORT SEARCH
- BTurek ActivityLog                  30  (06:18PM)
  AEllis ActivityLog                  2  (08:03AM)
+ BTurek ActivityLog                  30  (06:18PM)
 ---------------------------------------
 Total:                               32
 
@@ -39,15 +39,15 @@ Total:                               0
 
 
 KEYWORDSEARCH - SEARCH FOR CODE
+ MPopielarczyk ActivityLog           14  (07:52PM)
+ AEllis ActivityLog                  13  (07:22PM)
  CBacmeister ActivityLog             83  (06:45PM)
- MPopielarczyk ActivityLog           8  (06:22PM)
  CEckstrand ActivityLog              21  (04:43PM)
- AEllis ActivityLog                  12  (01:08PM)
  LFranko ActivityLog                 46  (02:29PM)
  KKrotec ActivityLog                 28  (10:45AM)
  AVanderpool ActivityLog             1  (10:19AM)
 ---------------------------------------
-Total:                               199
+Total:                               206
 
 
 CREATE CODE - CREATE CODE
@@ -64,10 +64,10 @@ Total:                               1
 
 
 REORDER CODE - REORDER CODE
+ MPopielarczyk ActivityLog           2  (07:42PM)
  CBacmeister ActivityLog             2  (08:46AM)
- MPopielarczyk ActivityLog           1  (02:48PM)
 ---------------------------------------
-Total:                               3
+Total:                               4
 
 
 CAPITALIZE TEXT - CAPITALIZE TEXT
@@ -103,10 +103,10 @@ Total:                               0
 
 
 HOTSTRING - HOTSTRING
+ AEllis ActivityLog                  116  (07:46PM)
  CBacmeister ActivityLog             1  (02:52PM)
- AEllis ActivityLog                  111  (03:09PM)
 ---------------------------------------
-Total:                               112
+Total:                               117
 
 
 ALT+B - CREATE A CODE
