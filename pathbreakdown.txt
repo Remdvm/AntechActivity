@@ -1,9 +1,11 @@
-Sunday May 24, 2026 at 7:00am
+Sunday May 24, 2026 at 8:00am
 
 REPORT SEARCH - REPORT SEARCH
- BTurek ActivityLog                  1  (06:57AM)
+ TWatanabe ActivityLog               8  (07:56AM)
+ BTurek ActivityLog                  2  (07:05AM)
+ PPatten ActivityLog                 1  (07:01AM)
 ---------------------------------------
-Total:                               1
+Total:                               11
 
 
 COPY ACCESSION - COPY ACCESSION
@@ -12,9 +14,9 @@ Total:                               0
 
 
 COPY TEXT - COPY TEXT
- BTurek ActivityLog                  1  (06:57AM)
+ BTurek ActivityLog                  2  (07:06AM)
 ---------------------------------------
-Total:                               1
+Total:                               2
 
 
 SHOW TRF - SHOW TRF
@@ -38,11 +40,13 @@ Total:                               0
 
 
 KEYWORDSEARCH - SEARCH FOR CODE
- CBacmeister ActivityLog             7  (06:58AM)
- KKrotec ActivityLog                 15  (06:54AM)
+ TWatanabe ActivityLog               1  (07:56AM)
+ AEllis ActivityLog                  1  (07:48AM)
+ KKrotec ActivityLog                 19  (07:49AM)
+ CBacmeister ActivityLog             14  (07:38AM)
  MSanchez ActivityLog                2  (05:12AM)
 ---------------------------------------
-Total:                               24
+Total:                               37
 
 
 CREATE CODE - CREATE CODE
@@ -92,9 +96,9 @@ Total:                               0
 
 
 HOTSTRING - HOTSTRING
- AEllis ActivityLog                  3  (06:59AM)
+ AEllis ActivityLog                  27  (07:54AM)
 ---------------------------------------
-Total:                               3
+Total:                               27
 
 
 ALT+B - CREATE A CODE
