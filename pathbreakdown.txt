@@ -1,11 +1,11 @@
-Thursday Jun 4, 2026 at 9:00am
+Thursday Jun 4, 2026 at 10:00am
 
 REPORT SEARCH - REPORT SEARCH
- MLund ActivityLog                   41  (08:59AM)
- BTurek ActivityLog                  3  (08:08AM)
+ BTurek ActivityLog                  4  (09:41AM)
+ MLund ActivityLog                   49  (09:31AM)
  TWatanabe ActivityLog               7  (07:30AM)
 ---------------------------------------
-Total:                               51
+Total:                               60
 
 
 COPY ACCESSION - COPY ACCESSION
@@ -14,15 +14,16 @@ Total:                               0
 
 
 COPY TEXT - COPY TEXT
+ BTurek ActivityLog                  5  (09:43AM)
  MLund ActivityLog                   1  (02:24AM)
- BTurek ActivityLog                  3  (08:08AM)
 ---------------------------------------
-Total:                               4
+Total:                               6
 
 
 SHOW TRF - SHOW TRF
+ PPatten ActivityLog                 1  (09:37AM)
 ---------------------------------------
-Total:                               0
+Total:                               1
 
 
  OPEN CASE WITH LOCAL DATABASE -  OPEN CASE (REPORT SEARCH)
@@ -41,20 +42,20 @@ Total:                               0
 
 
 KEYWORDSEARCH - SEARCH FOR CODE
+ PLabelle ActivityLog                16  (09:56AM)
+ AVanderpool ActivityLog             12  (09:25AM)
  MLund ActivityLog                   7  (08:46AM)
- PLabelle ActivityLog                10  (08:59AM)
- AVanderpool ActivityLog             10  (08:45AM)
- MPopielarczyk ActivityLog           20  (08:30AM)
+ MPopielarczyk ActivityLog           21  (09:22AM)
  TWatanabe ActivityLog               5  (07:36AM)
  MSanchez ActivityLog                3  (07:46AM)
 ---------------------------------------
-Total:                               55
+Total:                               64
 
 
 CREATE CODE - CREATE CODE
- AVanderpool ActivityLog             2  (07:04AM)
+ AVanderpool ActivityLog             4  (09:40AM)
 ---------------------------------------
-Total:                               2
+Total:                               4
 
 
 REMOVE LF - REMOVE LF
@@ -89,9 +90,9 @@ Total:                               0
 
 
 SAVE EDITS - SAVE EDITS
- AVanderpool ActivityLog             1  (08:55AM)
+ AVanderpool ActivityLog             5  (09:44AM)
 ---------------------------------------
-Total:                               1
+Total:                               5
 
 
 RENAME CODE - RENAME CODE
@@ -100,10 +101,10 @@ Total:                               0
 
 
 HOTSTRING - HOTSTRING
- AVanderpool ActivityLog             10  (08:58AM)
+ AVanderpool ActivityLog             14  (09:46AM)
  TWatanabe ActivityLog               1  (07:53AM)
 ---------------------------------------
-Total:                               11
+Total:                               15
 
 
 ALT+B - CREATE A CODE
