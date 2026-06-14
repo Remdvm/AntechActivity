@@ -1,10 +1,10 @@
-Sunday Jun 14, 2026 at 2:00pm
+Sunday Jun 14, 2026 at 3:00pm
 
 REPORT SEARCH - REPORT SEARCH
- TWatanabe ActivityLog               63  (01:59PM)
- BTurek ActivityLog                  24  (01:43PM)
+ TWatanabe ActivityLog               74  (02:52PM)
+ BTurek ActivityLog                  25  (02:08PM)
 ---------------------------------------
-Total:                               87
+Total:                               99
 
 
 COPY ACCESSION - COPY ACCESSION
@@ -13,9 +13,9 @@ Total:                               0
 
 
 COPY TEXT - COPY TEXT
- BTurek ActivityLog                  21  (01:43PM)
+ BTurek ActivityLog                  22  (02:09PM)
 ---------------------------------------
-Total:                               21
+Total:                               22
 
 
 SHOW TRF - SHOW TRF
@@ -39,15 +39,15 @@ Total:                               0
 
 
 KEYWORDSEARCH - SEARCH FOR CODE
+ CBacmeister ActivityLog             79  (02:56PM)
  TWatanabe ActivityLog               9  (01:23PM)
- CBacmeister ActivityLog             71  (01:59PM)
+ MPopielarczyk ActivityLog           12  (02:38PM)
+ KKrotec ActivityLog                 30  (02:35PM)
  AEllis ActivityLog                  1  (04:34AM)
  LFranko ActivityLog                 33  (01:11PM)
- MPopielarczyk ActivityLog           9  (11:00AM)
- KKrotec ActivityLog                 27  (10:45AM)
  AVanderpool ActivityLog             26  (10:17AM)
 ---------------------------------------
-Total:                               176
+Total:                               190
 
 
 CREATE CODE - CREATE CODE
@@ -64,10 +64,10 @@ Total:                               0
 
 
 REORDER CODE - REORDER CODE
- MPopielarczyk ActivityLog           2  (06:08AM)
- KKrotec ActivityLog                 2  (10:47AM)
+ MPopielarczyk ActivityLog           3  (02:06PM)
+ KKrotec ActivityLog                 3  (02:35PM)
 ---------------------------------------
-Total:                               4
+Total:                               6
 
 
 CAPITALIZE TEXT - CAPITALIZE TEXT
@@ -103,11 +103,12 @@ Total:                               0
 
 
 HOTSTRING - HOTSTRING
- AEllis ActivityLog                  95  (01:47PM)
+ TWatanabe ActivityLog               1  (02:30PM)
  KKrotec ActivityLog                 2  (08:31AM)
+ AEllis ActivityLog                  95  (01:47PM)
  AVanderpool ActivityLog             16  (10:11AM)
 ---------------------------------------
-Total:                               113
+Total:                               114
 
 
 ALT+B - CREATE A CODE
