@@ -1,117 +1,125 @@
-Friday Jul 31, 2026 at 5:00pm
+Friday Jul 31, 2026 at 6:00pm
 
-WIN+F1  - HOTKEYS CONTROL PANEL
- BTurek ActivityLog                  4  (08:13AM)
- LHuang ActivityLog                  5  (09:24AM)
+REPORT SEARCH - REPORT SEARCH
+ TWatanabe ActivityLog               559  (11:49AM)
+ MLund ActivityLog                   368  (01:52PM)
+ WZoll ActivityLog                   2  (12:39PM)
+ BTurek ActivityLog                  118  (09:11AM)
+ ASmith ActivityLog                  3  (11:38AM)
 ---------------------------------------
-Total:                               9
+Total:                               1050
 
 
-WIN+F2 - OPEN DAYFORCE
----------------------------------------
-Total:                               0
-
-
-WIN+F3 - PATH HOTKEYS SHORTCUT LIST
- FOliveira ActivityLog               1  (02:41PM)
----------------------------------------
-Total:                               1
-
-
-WIN+F4 - OPEN ANTRIM
- MPopielarczyk ActivityLog           3  (08:38PM)
----------------------------------------
-Total:                               3
-
-
-WIN+F5 - SCHEDULED SPECIALTY PATHOLOGISTS
+COPY ACCESSION - COPY ACCESSION
 ---------------------------------------
 Total:                               0
 
 
-WIN+F6 - ANTECH SHARED ARTICLE BANK
+COPY TEXT - COPY TEXT
+ TWatanabe ActivityLog               7  (05:55AM)
+ MLund ActivityLog                   11  (05:51AM)
+ BTurek ActivityLog                  106  (09:26AM)
+---------------------------------------
+Total:                               124
+
+
+SHOW TRF - SHOW TRF
 ---------------------------------------
 Total:                               0
 
 
-WIN+F7 - ONLINE ARTICLE SEARCH
+ OPEN CASE WITH LOCAL DATABASE -  OPEN CASE (REPORT SEARCH)
 ---------------------------------------
 Total:                               0
 
 
-WIN+F8 - PATHOLOGISTS SCHEDULED TODAY
+VIEW ASSIST - VIEW ASSIST
 ---------------------------------------
 Total:                               0
 
 
-WIN+F9 - GOOGLE
+CREATE NEW REPORT CODE - CREATE CODE(REPORT SEARCH)
 ---------------------------------------
 Total:                               0
 
 
-WIN+F10 - DIGITAL CASE ARCHIVE
+KEYWORDSEARCH - SEARCH FOR CODE
+ MPopielarczyk ActivityLog           190  (05:14PM)
+ CBacmeister ActivityLog             577  (04:58PM)
+ TWatanabe ActivityLog               57  (02:40PM)
+ HHauck ActivityLog                  19  (10:45AM)
+ MLund ActivityLog                   30  (01:52PM)
+ LBorst ActivityLog                  7  (05:50AM)
+ KKrotec ActivityLog                 99  (03:07AM)
+ LFranko ActivityLog                 210  (04:05PM)
+ AEllis ActivityLog                  35  (03:55AM)
+ PLabelle ActivityLog                1  (08:57AM)
+---------------------------------------
+Total:                               1225
+
+
+CREATE CODE - CREATE CODE
+ CBacmeister ActivityLog             2  (02:45PM)
+ MLund ActivityLog                   3  (02:02PM)
+ LFranko ActivityLog                 1  (04:25PM)
+---------------------------------------
+Total:                               6
+
+
+REMOVE LF - REMOVE LF
 ---------------------------------------
 Total:                               0
 
 
-WIN+F11 - LIST PENDING ADDONS
+REORDER CODE - REORDER CODE
+ MPopielarczyk ActivityLog           25  (05:14PM)
+ CBacmeister ActivityLog             9  (11:39AM)
+ KKrotec ActivityLog                 7  (04:31AM)
+ AEllis ActivityLog                  3  (05:55PM)
+---------------------------------------
+Total:                               44
+
+
+CAPITALIZE TEXT - CAPITALIZE TEXT
 ---------------------------------------
 Total:                               0
 
 
-WIN+F12 - DISPLAY CURRENT PATHOLOGISTS  SCHEDULE
+COPY HIGHLIGHTED - COPY HIGHLIGHTED
 ---------------------------------------
 Total:                               0
 
 
-SCROLLLOCK - CONTROL PANEL
- CBacmeister ActivityLog             2  (02:57PM)
- MPopielarczyk ActivityLog           32  (05:46AM)
- WYau ActivityLog                    4  (09:31AM)
- RRanck ActivityLog                  4  (12:30PM)
- JFisher ActivityLog                 1  (02:31PM)
- AFord ActivityLog                   4  (08:02AM)
- WZoll ActivityLog                   5  (04:45AM)
- GEhrensing ActivityLog              1  (04:09AM)
----------------------------------------
-Total:                               53
-
-
-NUMLOCK - PLACE SNIPPET
+FIND AND REPLACE - FIND AND REPLACE
 ---------------------------------------
 Total:                               0
 
 
-APPSKEY - APL TO FRONT
+COPY TO NOTEPAD - COPY TO NOTEPAD
 ---------------------------------------
 Total:                               0
 
 
-RCTRL - ESM TO FRONT
+SAVE EDITS - SAVE EDITS
+ CBacmeister ActivityLog             45  (04:50PM)
+ LFranko ActivityLog                 1  (04:26PM)
+ AEllis ActivityLog                  5  (05:55PM)
+---------------------------------------
+Total:                               51
+
+
+RENAME CODE - RENAME CODE
 ---------------------------------------
 Total:                               0
 
 
-SUBKEY - COPY ACCESSION TO CLIPBOARD
- CBacmeister ActivityLog             2  (06:44PM)
- WYau ActivityLog                    2  (09:46AM)
- JFisher ActivityLog                 2  (07:02AM)
- WZoll ActivityLog                   1  (05:02PM)
- SImanse ActivityLog                 2  (06:17AM)
- AHarvey ActivityLog                 1  (09:55AM)
- NFanzone ActivityLog                1  (09:14AM)
+HOTSTRING - HOTSTRING
+ CBacmeister ActivityLog             6  (04:44PM)
+ TWatanabe ActivityLog               49  (02:42PM)
+ KKrotec ActivityLog                 2  (03:41AM)
+ AEllis ActivityLog                  505  (04:57AM)
 ---------------------------------------
-Total:                               11
-
-
-PAUSE-BREAK - SPELL CHECK AND CORRECT
----------------------------------------
-Total:                               0
-
-
-ALT+A - TOGGLE AUTOHISTORY ON OFF
----------------------------------------
-Total:                               0
+Total:                               562
 
 
 ALT+B - CREATE A CODE
@@ -119,528 +127,32 @@ ALT+B - CREATE A CODE
 Total:                               0
 
 
-ALT+C - EDIT HOTKEY CODES
+CODE SHORTCUT - CODE SHORTCUT
 ---------------------------------------
 Total:                               0
 
 
-ALT+D - NEW SPECIAL STAIN FORM USED
- SSokol ActivityLog                  1  (07:01AM)
----------------------------------------
-Total:                               1
-
-
-ALT+E - UPDATE ANTRIM PASSWORD
+ALT+E - MANUAL CODE CREATE
  FOliveira ActivityLog               1  (02:41PM)
 ---------------------------------------
 Total:                               1
 
 
-ALT+F - OPEN CASE NOTES
+CLEAR CODE - CLEAR CODE
+ CBacmeister ActivityLog             2  (02:44PM)
+ LFranko ActivityLog                 80  (03:58PM)
 ---------------------------------------
-Total:                               0
-
-
-ALT+G - TOGGLE APL HOTKEY BUTTONS
----------------------------------------
-Total:                               0
-
-
-ALT+H - OPEN ACCESSION IN APL
----------------------------------------
-Total:                               0
-
-
-ALT+I - TOGGLE IMAGESCOPE AUTOCLOSE
----------------------------------------
-Total:                               0
-
-
-ALT+J - SAVE IMAGESCOPE SNAPSHOT
----------------------------------------
-Total:                               0
-
-
-ALT+K - MANUAL QUICK CLOSE IMAGESCOPE
- BTurek ActivityLog                  1  (01:10PM)
----------------------------------------
-Total:                               1
-
-
-ALT+L - SEARCH FOR TRF
----------------------------------------
-Total:                               0
-
-
-ALT+M - AUTOMOVE APL
----------------------------------------
-Total:                               0
-
-
-ALT+N - OPEN NOTEPAD
----------------------------------------
-Total:                               0
-
-
-ALT+O - ZOOM FOR MI
----------------------------------------
-Total:                               0
-
-
-ALT+P - LOCAL PATH REPORT DATABASE
- CBacmeister ActivityLog             2  (02:58PM)
- MPopielarczyk ActivityLog           1  (05:52AM)
- TWatanabe ActivityLog               13  (04:30AM)
- MLund ActivityLog                   1  (06:02AM)
- PPatten ActivityLog                 1  (08:45AM)
- WZoll ActivityLog                   2  (12:38PM)
- SImanse ActivityLog                 1  (03:51PM)
- BTurek ActivityLog                  5  (08:48AM)
- ASmith ActivityLog                  1  (11:37AM)
- MIverson ActivityLog                1  (12:59PM)
----------------------------------------
-Total:                               28
-
-
-ALT+Q - OPEN CURRENT APL TRF
----------------------------------------
-Total:                               0
-
-
-ALT+R - RELOAD PATH HOTKEYS
----------------------------------------
-Total:                               0
-
-
-ALT+S - VIEW ADD-ONS
- FOliveira ActivityLog               1  (02:41PM)
- HHauck ActivityLog                  1  (11:37AM)
----------------------------------------
-Total:                               2
-
-
-ALT+T - COPY APL REPORT TO CLIPBOARD AND CASE NOTES
----------------------------------------
-Total:                               0
-
-
-ALT+U - RECOVER IMAGESCOPE CRASH
- FOliveira ActivityLog               1  (03:26PM)
----------------------------------------
-Total:                               1
-
-
-ALT+V - COPY APL ACCESSION TO CLIPBOARD
----------------------------------------
-Total:                               0
-
-
-ALT+W - LOAD LAST APL REPORT (APL CRASH RECOVERY)
- BTurek ActivityLog                  1  (07:55AM)
----------------------------------------
-Total:                               1
-
-
-ALT+X - VIEW PREVIOUS ACCESSION
- WYau ActivityLog                    13  (10:44AM)
- SBeatty ActivityLog                 2  (05:57AM)
----------------------------------------
-Total:                               15
-
-
-ALT+Y - SEND EMAIL
----------------------------------------
-Total:                               0
-
-
-ALT+Z - DISPLAY CURRENT APL HISTORY
----------------------------------------
-Total:                               0
-
-
-WIN+A - CASE COUNTER
----------------------------------------
-Total:                               0
-
-
-WIN+B - VIEW GROSSING CODES
----------------------------------------
-Total:                               0
-
-
-WIN+C - OPEN MI COUNTER
- MIverson ActivityLog                1  (08:54AM)
----------------------------------------
-Total:                               1
-
-
-WIN+D - REMOVE COUNTING GRID
----------------------------------------
-Total:                               0
-
-
-WIN+E - 7 DAY PATH SCHEDULE
----------------------------------------
-Total:                               0
-
-
-WIN+F! - EXTRACT EMAIL ACCESSION -> ESM
----------------------------------------
-Total:                               0
-
-
-WIN+G - PLACE IMAGESCOPE GRID
----------------------------------------
-Total:                               0
-
-
-WIN+H - OPEN OUTLOOK CALENDAR
----------------------------------------
-Total:                               0
-
-
-WIN+I - OPEN OUTLOOK EMAIL
- MLund ActivityLog                   1  (02:44AM)
----------------------------------------
-Total:                               1
-
-
-WIN+J - PHOTOMICROGRAPH VIEWER
----------------------------------------
-Total:                               0
-
-
-WIN+K - SHOW MY SCHEDULE
----------------------------------------
-Total:                               0
-
-
-WIN+L - LOCK WINDOWS
----------------------------------------
-Total:                               0
-
-
-WIN+M - SHOW RECENT CASES
- CBacmeister ActivityLog             8  (05:21AM)
----------------------------------------
-Total:                               8
-
-
-WIN+N - ENTER SPECIAL STAIN
----------------------------------------
-Total:                               0
-
-
-WIN+O - SAVE ASSIST
----------------------------------------
-Total:                               0
-
-
-WIN+P - VIEW GROSSING PHOTOS
----------------------------------------
-Total:                               0
-
-
-WIN+Q - OPEN SAVED ARTICLE FOLDER
----------------------------------------
-Total:                               0
-
-
-WIN+R - RUN ANYDESK
----------------------------------------
-Total:                               0
-
-
-WIN+S - OPEN PATHSHARE DRIVE
----------------------------------------
-Total:                               0
-
-
-WIN+T - TAG ARCHIVE CASE
----------------------------------------
-Total:                               0
-
-
-WIN+U - SAVE AND LINK PHOTOS
- CBacmeister ActivityLog             1  (02:06PM)
- NFanzone ActivityLog                1  (03:26AM)
----------------------------------------
-Total:                               2
-
-
-WIN+V - UPLOAD PHOTOS TO WEB
- LBorst ActivityLog                  2  (05:50AM)
----------------------------------------
-Total:                               2
-
-
-WIN+W - VIEW ONLINE PICTURES
----------------------------------------
-Total:                               0
-
-
-WIN+X - 
- RRanck ActivityLog                  2  (10:23AM)
- JFisher ActivityLog                 1  (02:32PM)
- KKrotec ActivityLog                 3  (11:38AM)
- BTurek ActivityLog                  19  (02:02PM)
- LHuang ActivityLog                  1  (09:30AM)
- KMcdermott ActivityLog              2  (07:41AM)
----------------------------------------
-Total:                               28
+Total:                               82
 
 
-WIN+Y - IMAGESCOPE ANNOTATE
+SPELL CHECK - SPELL CHECK
 ---------------------------------------
 Total:                               0
 
 
-WIN+Z - OPEN ZOOM
+CHATGPT - CHATGPT
+ LFranko ActivityLog                 10  (08:31AM)
 ---------------------------------------
-Total:                               0
-
-
-PRINT SCREEN - CAPTURE BOTH SCREENS
----------------------------------------
-Total:                               0
-
-
-CTRL-PRINTSCREEN - CAPTURE LEFT MONITOR
----------------------------------------
-Total:                               0
-
-
-ALT-PRINTSCREEN - CAPTURE RIGHT MONITOR
----------------------------------------
-Total:                               0
-
-
-WIN+PRINTSCREEN - CAPTURE ACTIVE WINDOW
----------------------------------------
-Total:                               0
-
-
-HOTKEYS BUTTONS - 
- MPopielarczyk ActivityLog           4  (08:38PM)
- RRanck ActivityLog                  2  (10:23AM)
- JFisher ActivityLog                 1  (02:32PM)
- MLund ActivityLog                   3  (04:54PM)
- KKrotec ActivityLog                 3  (11:38AM)
- BTurek ActivityLog                  1  (07:55AM)
- LHuang ActivityLog                  1  (09:30AM)
- KMcdermott ActivityLog              2  (07:41AM)
----------------------------------------
-Total:                               17
-
-
-ESM RIGHT CLICK - 
----------------------------------------
-Total:                               0
-
-
-CONTROL PANEL - 
----------------------------------------
-Total:                               0
-
-
-APL TOOLBAR SEARCH - APL TOOLBAR SEARCH
----------------------------------------
-Total:                               0
-
-
-AUTOCLOSED - AUTOMATICALLY QUICK CLOSE IMAGESCOPE
- LFry ActivityLog                    1  (08:10PM)
- ASmith ActivityLog                  3  (11:27AM)
----------------------------------------
-Total:                               4
-
-
-AUTOMOVE APL - MOVE APL TO CORRECT MONITOR
----------------------------------------
-Total:                               0
-
-
-PATIENT INQUIRY - PATIENT INQUIRY
----------------------------------------
-Total:                               0
-
-
-APL TRF SCROLL - APL TRF SCROLL
----------------------------------------
-Total:                               0
-
-
-VIEW ANTRIM NOTES - VIEW ANTRIM NOTES
----------------------------------------
-Total:                               0
-
-
-ARTICLE VIEWED - ARTICLE VIEWED
----------------------------------------
-Total:                               0
-
-
-SHOW ADDONS BUTTON - LIST ALL ADDONS BUTTON
----------------------------------------
-Total:                               0
-
-
-AUTOHISTORY - AUTOHISTORY USED
----------------------------------------
-Total:                               0
-
-
-VIEW ADDENDUM - VIEW ADDENDUM
- AHarvey ActivityLog                 1  (02:11PM)
----------------------------------------
-Total:                               1
-
-
-CTRL+F11 - IMAGESCOPE ANNOTATE (AI)
----------------------------------------
-Total:                               0
-
-
-GROSSING PHOTO - GROSSING PHOTO
----------------------------------------
-Total:                               0
-
-
-REORDER UTILITY - 
- CEckstrand ActivityLog              1  (05:59AM)
----------------------------------------
-Total:                               1
-
-
-APL REORDER - 
----------------------------------------
-Total:                               0
-
-
-OUTLOOK BUTTON - FIND ACCESSION IN ESM
- CBacmeister ActivityLog             2  (6:06pm )
- AAceino ActivityLog                 2  (1:28pm )
- AHarvey ActivityLog                 1  (11:18am)
----------------------------------------
-Total:                               5
-
-
-RELEASE FINAL - RELEASE FINAL BY DRAGON
----------------------------------------
-Total:                               0
-
-
-RELEASE PARTIAL - RELEASE PARTIAL BY DRAGON
----------------------------------------
-Total:                               0
-
-
-OPEN CASE WITH LOCAL DATABASE - 
----------------------------------------
-Total:                               0
-
-
-CTRL+WIN+C - ONLINE ARTICLE SEARCH
----------------------------------------
-Total:                               0
-
-
-CTRL+WIN+D - SCIHUB SEARCH
----------------------------------------
-Total:                               0
-
-
-CTRL+F12 - AI PROJECT CAPTURE
----------------------------------------
-Total:                               0
-
-
-CP-WIN+E - WEEKLY PATH SCHEDULE
----------------------------------------
-Total:                               0
-
-
-ALT+F9 - SAVE ACTIVE  EMAIL TO CASE NOTES
----------------------------------------
-Total:                               0
-
-
-APL-ALT-V - COPY APL ACCESSION TO CLIPBOARD
----------------------------------------
-Total:                               0
-
-
-CP-ALT-V - COPY APL ACCESSION TO CLIPBOARD
----------------------------------------
-Total:                               0
-
-
-VIEW ASSISTS - COPY APL ACCESSION TO CLIPBOARD
----------------------------------------
-Total:                               0
-
-
-VIEW MY ASSISTS - COPY APL ACCESSION TO CLIPBOARD
----------------------------------------
-Total:                               0
-
-
-ASSIST ESM - COPY APL ACCESSION TO CLIPBOARD
----------------------------------------
-Total:                               0
-
-
-
-
-CBacmeister ActivityLog.txt
-  Win+M	1
-
-
-MPopielarczyk ActivityLog.txt
-
-
-WYau ActivityLog.txt
-  Alt+X	4
-
-
-FOliveira ActivityLog.txt
-  Alt+U	1
-
-
-RRanck ActivityLog.txt
-
-
-TWatanabe ActivityLog.txt
-  Alt+P	1
-
-
-JFisher ActivityLog.txt
-
-
-Rmoreland ActivityLog.txt
-
-
-HHauck ActivityLog.txt
-  Alt+S	1
-
-
-MLund ActivityLog.txt
-
-
-PPatten ActivityLog.txt
-  Alt+P	1
-
-
-AFord ActivityLog.txt
-  ScrollLock	4
-
-
-LBorst ActivityLog.txt
-  Win+V	1
-
-
-WZoll ActivityLog.txt
-  ScrollLock	1
+Total:                               10
 
 
-KKrotec ActivityLog.txt
