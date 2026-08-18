@@ -1,11 +1,11 @@
-Monday Aug 17, 2026 at 5:00pm
+Monday Aug 17, 2026 at 6:00pm
 
 REPORT SEARCH - REPORT SEARCH
+ TWatanabe ActivityLog               59  (05:57PM)
  MLund ActivityLog                   96  (03:35PM)
  KMcdermott ActivityLog              2  (10:54AM)
- TWatanabe ActivityLog               56  (09:41AM)
 ---------------------------------------
-Total:                               154
+Total:                               157
 
 
 COPY ACCESSION - COPY ACCESSION
@@ -41,19 +41,19 @@ Total:                               0
 
 
 KEYWORDSEARCH - SEARCH FOR CODE
+ TWatanabe ActivityLog               9  (06:00PM)
+ MSanchez ActivityLog                50  (05:50PM)
+ PLabelle ActivityLog                30  (05:40PM)
+ KKrotec ActivityLog                 29  (05:28PM)
  MPopielarczyk ActivityLog           16  (04:55PM)
- PLabelle ActivityLog                29  (04:53PM)
- MSanchez ActivityLog                47  (04:46PM)
  MLund ActivityLog                   8  (03:38PM)
  AEllis ActivityLog                  10  (01:56PM)
  LFranko ActivityLog                 69  (03:18PM)
  CBacmeister ActivityLog             84  (02:47PM)
- KKrotec ActivityLog                 28  (11:15AM)
  LBorst ActivityLog                  1  (10:11AM)
  AVanderpool ActivityLog             24  (10:00AM)
- TWatanabe ActivityLog               8  (09:22AM)
 ---------------------------------------
-Total:                               324
+Total:                               330
 
 
 CREATE CODE - CREATE CODE
@@ -68,9 +68,9 @@ Total:                               0
 
 
 REORDER CODE - REORDER CODE
+ KKrotec ActivityLog                 2  (10:07AM)
  MPopielarczyk ActivityLog           2  (04:48PM)
  CBacmeister ActivityLog             1  (08:26AM)
- KKrotec ActivityLog                 2  (10:07AM)
 ---------------------------------------
 Total:                               5
 
@@ -110,12 +110,12 @@ Total:                               0
 
 
 HOTSTRING - HOTSTRING
+ TWatanabe ActivityLog               6  (09:50AM)
  PLabelle ActivityLog                1  (08:17AM)
+ KKrotec ActivityLog                 3  (10:07AM)
  AEllis ActivityLog                  120  (03:23PM)
  CBacmeister ActivityLog             1  (03:01PM)
- KKrotec ActivityLog                 3  (10:07AM)
  AVanderpool ActivityLog             19  (09:40AM)
- TWatanabe ActivityLog               6  (09:50AM)
 ---------------------------------------
 Total:                               150
 
