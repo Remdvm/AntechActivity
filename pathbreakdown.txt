@@ -1,4 +1,4 @@
-Saturday Oct 3, 2026 at 4:00pm
+Saturday Oct 3, 2026 at 5:00pm
 
 REPORT SEARCH - REPORT SEARCH
  BTurek ActivityLog                  4  (11:18AM)
@@ -38,9 +38,9 @@ Total:                               0
 
 
 KEYWORDSEARCH - SEARCH FOR CODE
+ AEllis ActivityLog                  5  (08:00AM)
  CBacmeister ActivityLog             86  (03:20PM)
  AVanderpool ActivityLog             1  (02:37PM)
- AEllis ActivityLog                  5  (08:00AM)
  MSanchez ActivityLog                34  (01:10PM)
  PLabelle ActivityLog                1  (06:24AM)
 ---------------------------------------
@@ -98,10 +98,10 @@ Total:                               0
 
 
 HOTSTRING - HOTSTRING
+ AEllis ActivityLog                  85  (04:51PM)
  AVanderpool ActivityLog             2  (02:20PM)
- AEllis ActivityLog                  78  (02:04PM)
 ---------------------------------------
-Total:                               80
+Total:                               87
 
 
 ALT+B - CREATE A CODE
